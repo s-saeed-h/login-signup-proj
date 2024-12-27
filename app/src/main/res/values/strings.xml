@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Sinup Sql</string>
+    <string name="already_registered_login">Already registered? Login?</string>
+    <string name="signup">SIGNUP</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="usernamep">Username</string>
+</resources>
